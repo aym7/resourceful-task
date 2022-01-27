@@ -30,9 +30,13 @@ Clicking on a photo switch to the single photo view. The uri is formatted as fol
 
 ## Uploader
 
-Display a form with a single file input accepting mp4 videos.
+[http://localhost:3000/uploader](http://localhost:3000/uploader)
+
+Display a form with a single file input accepting mp4 videos lower than 50MB.
 
 ## Authentication UX
+
+[http://localhost:3000/authenticationux](http://localhost:3000/authenticationux)
 
 Display the example explanations for the required application.
 
